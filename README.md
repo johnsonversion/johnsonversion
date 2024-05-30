@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<br>my readme, dun know anything</br>
+<br>dun know anything</br>
 <br>looking to learn and advance my skill</br>
 
 <!--
