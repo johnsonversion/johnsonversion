@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+my first repo, dun know anything
+looking to learn and advance my skill
+
 <!--
 **johnsonversion/johnsonversion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
