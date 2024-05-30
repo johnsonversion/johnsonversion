@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<br>my first repo, dun know anything</br>
+<br>my readme, dun know anything</br>
 <br>looking to learn and advance my skill</br>
 
 <!--
